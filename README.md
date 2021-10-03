@@ -1,14 +1,3 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="https://avatars.githubusercontent.com/u/49494752" alt="Icon"></a>
-</p>
+![Jerebtw stats](https://github-readme-stats.vercel.app/api?username=jerebtw&count_private=true&show_icons=true&theme=material-palenight)
 
-<h3 align="center">Jerebtw</h3>
-
----
-
-## ⛏️ Uses <a name = "uses"></a>
-
-- [Next.js](https://nextjs.org/) - Web Framework
-- [MSSQL](https://www.microsoft.com/de-de/sql-server) - Database
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerebtw&langs_count=8&layout=compact&theme=material-palenight)
