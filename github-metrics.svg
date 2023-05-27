@@ -221,7 +221,7 @@
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="247.93356138589004" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="247.93356138589004" y="0" width="134.2941877981421" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="247.93356138589004" y="0" width="134.2941877981421" height="8" fill="#ededed"/>
                     <rect mask="url(#languages-bar)" x="382.2277491840321" y="0" width="62.50941501380869" height="8" fill="#dea584"/>
                     <rect mask="url(#languages-bar)" x="444.73716419784085" y="0" width="11.73314712528245" height="8" fill="#00ADD8"/>
                     <rect mask="url(#languages-bar)" x="456.4703113231233" y="0" width="2.905316344463972" height="8" fill="#384d54"/>
@@ -245,7 +245,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 TSX
                             </div>
@@ -1348,7 +1348,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 May 2023, 02:22:15 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 27 May 2023, 14:07:56 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
